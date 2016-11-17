@@ -73,6 +73,8 @@
     <Compile Include="BuilderExtensions\P2MultiSigBuilderExtension.cs" />
     <Compile Include="BuilderExtensions\P2PKBuilderExtension.cs" />
     <Compile Include="BuilderExtensions\P2PKHBuilderExtension.cs" />
+    <Compile Include="DashKey.cs" />
+    <Compile Include="DashNetwork.cs" />
     <Compile Include="FeeRate.cs" />
     <Compile Include="OpenAsset\NullColoredTransactionRepository.cs" />
     <Compile Include="Payment\IChainChecker.cs" />
